@@ -16,7 +16,7 @@ Then we have the Disentangler training in disentangler:
 - training.py
 - and the custom dataloader
 
-In make_CPC we simulate user choice and split up our test data into the UI matrix and the holdout ratings. 
+In make_CPC we simulate user choice and split up our test data into the user-item matrix and the holdout ratings. 
 
 - user_choice.py
 - split_test_data.py
