@@ -1,5 +1,8 @@
 # CPC
 
+[IEEE Paper](https://ieeexplore.ieee.org/document/11401601)
+[Arxiv Preprint](https://arxiv.org/abs/2511.17574)
+
 We will point you to the high level flow for behavior, but changing file pathing will have to be up to interested parties. Note that we only include the preset behavior to generate CPC and FNPC, and do not consider the NN and FN-NN methods, though they could easily be done by changing the user_correlation matrix used in the files.
 
 The repository is organized in the following manner:
